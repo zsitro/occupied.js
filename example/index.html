@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+    <script src="../occupied.js"></script>
+    <meta charset=utf-8 />
+    <title>Occupied.js</title>
+    <style id="jsbin-css">
+        body,html{
+			font-family:sans-serif;
+			padding:50px;
+		}
+        .lePreloader{
+            background:red;
+            padding:4px;
+            color:white;
+
+            position:fixed;
+            top:0;left:0;
+        }
+    </style>
+</head>
+<body>
+
+  <!-- lagging links http://goo.gl/XG1A1 -->
+
+  <a href="http://www.leddisplay-passion.com/">Lagging site link #1</a><br>
+  <a href="http://www.deal-wholesale.com/">Lagging site link #2</a>
+
+<script>
+
+$(function () {
+
+    occupied.add("Yes, it's loading..", 1000);
+    occupied.add("..and it's fuckin' slow..", 3000);
+    occupied.add(".. ponies are okay, right?", 5000);
+    occupied.add("Meanwhile here's a repo full of <a href='http://goo.gl/KV9aJ'>ponies</a>.", 7000);
+    occupied.add(".. agrh everloading story ..", 12000);
+
+});
+</script>
+
+</body>
+</html>
