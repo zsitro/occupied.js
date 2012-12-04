@@ -1,7 +1,7 @@
 Occupied.js
 =========
 
-## Bleeding preview verison
+## Bleeding preview version
 It's just a silly workaround to inform users that something is really on going..
 
 ##Background
