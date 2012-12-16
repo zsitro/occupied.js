@@ -18,3 +18,7 @@ Chrome, Firefox, Safari, IE things
 
 ## Demo
 http://dev3.zsitro.com/occupied.js/example/
+
+## Approves
+> Gabor Zsoter’s occupied.js is a great example of how the perception can be completely changed by just a small visual distraction.
+> — [_Grahame Scott-Douglas_](http://mysoftwarenotes.wordpress.com)
