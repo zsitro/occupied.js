@@ -17,4 +17,4 @@ You can replace that ugly red bar with a cute, sparkling animgif loader or with 
 Chrome, Firefox, Safari, IE things
 
 ## Demo
-https://c9.io/zsitro/occupied_js/workspace/example/index.html
+http://dev3.zsitro.com/occupied.js/example/
