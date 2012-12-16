@@ -2,7 +2,7 @@ Occupied.js
 =========
 
 ## Bleeding preview version
-It's just a silly workaround to inform users that something is really on going..
+It's just a silly workaround for lagging links to inform users that something is really on going..
 
 ##Background
 Idea from Steve Souders' [The Perception of Speed](http://www.stevesouders.com/blog/2012/12/03/the-perception-of-speed/?sleep=5) blogpost.
